@@ -1,3 +1,4 @@
+![Project Banner](./Banner.png)
 # Reinforcement Learning for Battery Dispatch ⚡🔋
 
 ## Project Overview
